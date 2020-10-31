@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m Kevin on Kevin Cory</title>
+    <link>https://kev-bot-studios.github.io/kevincory/</link>
+    <description>Recent content in Hi, I&#39;m Kevin on Kevin Cory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://kev-bot-studios.github.io/kevincory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your favorite rapper&#39;s, favorite rapper</title>
+      <link>https://kev-bot-studios.github.io/kevincory/post/project-1/</link>
+      <pubDate>Sat, 24 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kev-bot-studios.github.io/kevincory/post/project-1/</guid>
+      <description> An analysis of the interconnectedness of contemporary and classic rappers alike, using audio features like tempo, or danceability from the Spotify API to gauge similarity. Created a distance metric between each artist using PCA to reduce dimensionality of large audio feature space. Tools: Node.JS, HTML, CSS, Python – Pandas, NumPy, Matplotlib, Scikit-Learn. Site, Github  </description>
+    </item>
+    
+    <item>
+      <title>NBA Dashboard</title>
+      <link>https://kev-bot-studios.github.io/kevincory/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://kev-bot-studios.github.io/kevincory/post/project-2/</guid>
+      <description> A visualization project showcasing a selected NBA player’s career statistics, along with a more in depth analysis of their 2018-2019 season. Scraped NBA player season statistics dating back to 1980. Tools: Python - Dash, Pandas, NumPy, Matplotlib, Beautiful Soup. Site, Github  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kev-bot-studios.github.io/kevincory/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kev-bot-studios.github.io/kevincory/contact/</guid>
+      <description>   Learn more and reach out at:      Linkedin: Linkedin   Github: Github    </description>
+    </item>
+    
+  </channel>
+</rss>
